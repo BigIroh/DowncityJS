@@ -4,4 +4,4 @@ DowncityJS
 
 DowncityJS
 
-
+```javascript ___ = function(){}.protype.object;```
